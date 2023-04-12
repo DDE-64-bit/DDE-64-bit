@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donaldduckede&label=Profile%20views&color=0e75b6&style=flat" alt="donaldduckede" /> </p>
 
-- 🔭 I’m currently working on [cs50w](https://github.com/DonaldDuckEde/cs50/tree/master/cs50w)
-
-- 🌱 I’m currently learning **Web development**
+- 🔭 I’m currently working on CS50P
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Frond-end**
 
