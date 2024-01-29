@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: CS50P<br>👯 I’m looking to collaborate on: Open source projects<br>🤝 I’m looking for help with: Backend<br>🌱 I’m currently learning: Algorithms<br>💬 Ask me about: Front-End<br>⚡ Fun fact: I'm just 15 years old
+🔭 I’m currently working on: An etical hacking platform called TIXweb<br>👯 I’m looking to collaborate on: Open source projects<br>🤝 I’m looking for help with: Backend<br>🌱 I’m currently learning: Algorithms<br>💬 Ask me about: Front-End<br>⚡ Fun fact: I'm just 15 years old
 
 
 # 💻 Tech Stack:
