@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: An etical hacking platform called TIXweb<br>👯 I’m looking to collaborate on: Open source projects<br>🤝 I’m looking for help with: Backend<br>🌱 I’m currently learning: Algorithms<br>💬 Ask me about: Cyber-sercurity
+👯 I’m looking to collaborate on: Open source projects<br>🤝 I’m looking for help with: Backend<br>🌱 I’m currently learning: Algorithms<br>💬 Ask me about: Cyber-sercurity
 
 # 💻 Tech Stack:
 <!--
