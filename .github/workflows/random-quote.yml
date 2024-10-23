@@ -1,0 +1,38 @@
+name: Update random quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Dit zorgt ervoor dat de action dagelijks om middernacht wordt uitgevoerd
+  workflow_dispatch: # Hiermee kun je het handmatig uitvoeren
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Choose a random quote
+        id: random-quote
+        run: |
+          QUOTE=$(shuf -n 1 quotes.txt)
+          echo "::set-output name=quote::$QUOTE"
+
+      - name: Update README with new quote
+        run: |
+          # Verwijder oude quote
+          sed -i '/<!-- random-quote -->/,/<!-- end-random-quote -->/d' README.md
+
+          # Voeg nieuwe quote toe
+          echo "<!-- random-quote -->" >> README.md
+          echo "$QUOTE" >> README.md
+          echo "<!-- end-random-quote -->" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update random quote"
+          git push
