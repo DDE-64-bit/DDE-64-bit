@@ -44,6 +44,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m "Update random quote"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
             git push
           else
             echo "No changes to commit"
