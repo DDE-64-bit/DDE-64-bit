@@ -1,17 +1,16 @@
-# Hi there, I'm Olivier 👋
+# Hallo, ik ben Olivier 👋
 
-I'm a passionate cybersecurity student with a strong interest in networking, security, and coding. Currently working on various projects to expand my knowledge and hands-on experience.
+Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveiliging en coderen. Momenteel werk ik aan verschillende projecten om mijn kennis en praktische ervaring uit te breiden.
 
-### 🔧 Technologies & Tools:
-- **Programming Languages**: Python, C#
-- **Cybersecurity Skills**: 
-  - **Blue Teaming**: Experience with monitoring network traffic, incident response, and security logging.
+### 🔧 Technologieën & Tools:
+- **Programmeertalen**: Python, C#
+- **Cybersecurity Vaardigheden**: 
+  - **Blue Teaming**: Ervaring met netwerken en andere cybersecurity concepten.
+- **Frameworks**: Vooral ervaring met Django en Harmony patching.
 
-### 🚀 Current Projects:
-- **Setting up a VPN** on a Raspberry Pi for secure remote access.
-- **Building a C# Application** to automate security tasks, such as log analysis and incident reporting.
-- **Learning Extra C# Syntax** to improve my software development skills.
+### 🚀 Huidige Projecten:
+- **Verbeteren van het collor-menu** volg mijn vooruitgang [hier](https://github.com/DDE-64-bit/Color-Menu/releases/).
 
-### 🌱 Learning Journey:
-- Currently studying **Junior Cybersecurity Analyst** via Cisco's Skills for All path.
-- Expanding knowledge in cybersecurity fundamentals and working towards certification.
+### 🌱 Leertraject:
+- Momenteel studeer ik voor **Junior Cybersecurity Analyst** via Cisco's Skills for All-path.
+- Ik breid mijn kennis uit over de basisprincipes van cybersecurity en werk toe naar certificering.
