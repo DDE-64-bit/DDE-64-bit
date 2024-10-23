@@ -14,3 +14,12 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 ### 🌱 Leertraject:
 - Momenteel studeer ik voor **Junior Cybersecurity Analyst** via Cisco's Skills for All-path.
 - Ik breid mijn kennis uit over de basisprincipes van cybersecurity en werk toe naar certificering.
+
+
+<br>
+<hr>
+
+[![DDE-64-bit's GitHub statistieken](https://github-readme-stats.vercel.app/api/top-langs?username=DDE-64-bit&hide=html,css&theme=algolia&show_icons=true)](https://github.com/DDE-64-bit)
+
+<!-- random-quote -->
+<!-- end-random-quote -->
