@@ -2,8 +2,8 @@ name: Update random quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Dit zorgt ervoor dat de action dagelijks om middernacht wordt uitgevoerd
-  workflow_dispatch: # Hiermee kun je het handmatig uitvoeren
+    - cron: '0 0 * * *' # Dagelijks om middernacht
+  workflow_dispatch: # Handmatig starten
 
 jobs:
   update-readme:
@@ -29,6 +29,12 @@ jobs:
           echo "$QUOTE" >> README.md
           echo "<!-- end-random-quote -->" >> README.md
 
+      - name: Debug git status
+        run: |
+          echo "DEBUGGING GIT STATUS"
+          git status
+          git log -3 # Laat de laatste 3 commits zien voor debugging
+
       - name: Commit changes if any
         run: |
           git config --local user.email "action@github.com"
@@ -44,3 +50,7 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show git logs after commit
+        if: success()
+        run: git log -3
