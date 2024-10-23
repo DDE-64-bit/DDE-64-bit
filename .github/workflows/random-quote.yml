@@ -11,30 +11,36 @@ jobs:
 
     steps:
       - name: Checkout repository content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Choose a random quote
         id: random-quote
         run: |
           QUOTE=$(shuf -n 1 quotes.txt)
-          echo "::set-output name=quote::$QUOTE"
+          echo "quote=$QUOTE" >> $GITHUB_ENV
 
       - name: Update README with new quote
         run: |
           # Verwijder oude quote
           sed -i '/<!-- random-quote -->/,/<!-- end-random-quote -->/d' README.md
-
+          
           # Voeg nieuwe quote toe
           echo "<!-- random-quote -->" >> README.md
           echo "$QUOTE" >> README.md
           echo "<!-- end-random-quote -->" >> README.md
 
-      - name: Commit changes
+      - name: Commit changes if any
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update random quote"
-          git push
+          
+          # Controleer of er wijzigingen zijn om te committen
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "Update random quote"
+            git push
+          else
+            echo "No changes to commit"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
