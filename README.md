@@ -9,7 +9,7 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 - **Frameworks**: Vooral ervaring met Django en Harmony patching.
 
 ### 🚀 Huidige Projecten:
-- **Verbeteren van het collor-menu** volg mijn vooruitgang [hier](https://github.com/DDE-64-bit/Color-Menu/releases/).
+- **Verbeteren van het color-menu** volg mijn vooruitgang [hier](https://github.com/DDE-64-bit/Color-Menu/releases/).
 
 ### 🌱 Leertraject:
 - Momenteel studeer ik voor **Junior Cybersecurity Analyst** via Cisco's Skills for All-path.
