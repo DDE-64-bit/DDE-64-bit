@@ -18,7 +18,7 @@ let readmeContent = fs.readFileSync(readmeFile, 'utf8');
 // Vervang de quote in README.md
 const newReadmeContent = readmeContent.replace(
   /<!-- START_QUOTE -->[\s\S]*?<!-- END_QUOTE -->/,
-  `<!-- START_QUOTE -->\n**"${todayQuote}"**\n<!-- END_QUOTE -->`
+  `<!-- START_QUOTE -->\n># **"${todayQuote}"**\n<!-- END_QUOTE -->`
 );
 
 // Schrijf de update weg
