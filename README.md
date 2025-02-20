@@ -14,3 +14,9 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 ### 🌱 Leertraject:
 - Momenteel studeer ik voor **Junior Cybersecurity Analyst** via Cisco's Skills for All-path.
 - Ik breid mijn kennis uit over de basisprincipes van cybersecurity en werk toe naar certificering.
+
+
+
+<!-- START_QUOTE -->
+*Hier komt de quote...*
+<!-- END_QUOTE -->
