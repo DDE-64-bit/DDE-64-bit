@@ -1,10 +1,9 @@
-name: Update Daily Quote
+name: Update Daily Quote in README
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Voer dagelijks om middernacht UTC uit
+  workflow_dispatch:  # Handmatige trigger mogelijk
 
 jobs:
   update-quote:
@@ -19,13 +18,20 @@ jobs:
         with:
           node-version: "18"
 
-      - name: Run script to update quote
+      - name: Run script to update README
         run: node updateQuote.js
 
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add daily_quote.txt
-          git commit -m "Updated daily quote" || exit 0
-          git push
+
+          # Check of README.md veranderd is
+          if git diff --quiet README.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "Updated daily quote in README"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
