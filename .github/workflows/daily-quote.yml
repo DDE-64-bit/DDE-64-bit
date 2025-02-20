@@ -17,7 +17,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v18
         with:
-          node-version: "18"
+          node-version: "3"
 
       - name: Run script to update quote
         run: node updateQuote.js
