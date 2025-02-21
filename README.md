@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Bug-free? That’s a feature request."**
+># **"0-day: Found it, exploited it, reported it."**
 <!-- END_QUOTE -->
