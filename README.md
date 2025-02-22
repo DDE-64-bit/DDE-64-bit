@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"0-day: Found it, exploited it, reported it."**
+># **"XSS? More like ‘Exploits So Simple’."**
 <!-- END_QUOTE -->
