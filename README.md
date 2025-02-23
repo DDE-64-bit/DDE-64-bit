@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"XSS? More like ‘Exploits So Simple’."**
+># **"Hardcoded credentials… again."**
 <!-- END_QUOTE -->
