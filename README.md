@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Hardcoded credentials… again."**
+># **"CTF challenges taught me more than school ever did."**
 <!-- END_QUOTE -->
