@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Subdomain enumeration: because one domain is never enough."**
+># **"If your app doesn’t validate input, I will."**
 <!-- END_QUOTE -->
