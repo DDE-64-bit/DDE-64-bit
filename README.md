@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Exploit-DB is my second home."**
+># **"If it has an IP, I can probably break it."**
 <!-- END_QUOTE -->
