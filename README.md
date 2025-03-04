@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Pentesting: The art of controlled chaos."**
+># **"My job is to break things, then write a report about it."**
 <!-- END_QUOTE -->
