@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"If Metasploit doesn’t work, try harder."**
+># **"Brute force is my plan B."**
 <!-- END_QUOTE -->
