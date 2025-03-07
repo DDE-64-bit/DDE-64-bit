@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Brute force is my plan B."**
+># **"Everything is a CTF if you try hard enough."**
 <!-- END_QUOTE -->
