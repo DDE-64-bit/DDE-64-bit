@@ -3,7 +3,7 @@
 Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveiliging en coderen. Momenteel werk ik aan verschillende projecten om mijn kennis en praktische ervaring uit te breiden.
 
 ### 🔧 Technologieën & Tools:
-- **Programmeertalen**: Python, C#
+- **Programmeertalen**: Python, C#, C
 - **Cybersecurity Vaardigheden**: 
   - **Blue Teaming**: Ervaring met netwerken en andere cybersecurity concepten.
 - **Frameworks**: Vooral ervaring met Django en Harmony patching.
