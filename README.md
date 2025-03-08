@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Everything is a CTF if you try hard enough."**
+># **"Real pentesters don’t need GUI."**
 <!-- END_QUOTE -->
