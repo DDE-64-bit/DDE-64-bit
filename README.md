@@ -18,5 +18,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Found a hidden parameter, let’s see what it does."**
+># **"OSINT: Hacking with Google."**
 <!-- END_QUOTE -->
