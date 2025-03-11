@@ -6,6 +6,7 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 - **Programmeertalen**: Python, C#, C
 - **Cybersecurity Vaardigheden**: 
   - **Blue Teaming**: Ervaring met netwerken en andere cybersecurity concepten.
+  - **Red Teaming**: Ervaring met verschillende offensive security tools.
 - **Frameworks**: Vooral ervaring met Django en Harmony patching.
 <!--
 ### 🚀 Huidige Projecten:
