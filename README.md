@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"OSINT: Hacking with Google."**
+># **"Who needs backdoors when misconfigurations exist?"**
 <!-- END_QUOTE -->
