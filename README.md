@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Who needs backdoors when misconfigurations exist?"**
+># **"Security through obscurity is not security."**
 <!-- END_QUOTE -->
