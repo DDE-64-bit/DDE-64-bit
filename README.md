@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Security through obscurity is not security."**
+># **"My favorite tool? The one that gets me in."**
 <!-- END_QUOTE -->
