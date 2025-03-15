@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"My favorite tool? The one that gets me in."**
+># **"First rule of pentesting: Always check for default creds."**
 <!-- END_QUOTE -->
