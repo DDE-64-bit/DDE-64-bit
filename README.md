@@ -10,7 +10,7 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 - **Frameworks**: Vooral ervaring met Django, Harmony patching en OpenAI agentSDK
 
 ### 🚀 Huidige Projecten:
-- **Bezig met eigen AI agent SDK**: Voor de leer ervaring ben ik bezig met een eigen AI agent SDK gebaseerd op llama3.2 van Meta.
+- **Bezig met eigen AI agent SDK**: Voor de leerervaring ben ik bezig met een eigen AI agent SDK gebaseerd op llama3.2 van Meta.
 
 ### 🌱 Leertraject:
 - Momenteel studeer ik voor **Junior Cybersecurity Analyst** via Cisco's Skills for All-path.
