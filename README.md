@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Second rule of pentesting: Never trust user input."**
+># **"Third rule of pentesting: Read the logs, they never lie."**
 <!-- END_QUOTE -->
