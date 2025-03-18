@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Third rule of pentesting: Read the logs, they never lie."**
+># **"Dropped a shell, now the fun begins."**
 <!-- END_QUOTE -->
