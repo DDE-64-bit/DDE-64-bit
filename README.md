@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Dropped a shell, now the fun begins."**
+># **"Intercepting traffic like it’s my morning coffee."**
 <!-- END_QUOTE -->
