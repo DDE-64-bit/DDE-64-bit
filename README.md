@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Intercepting traffic like it’s my morning coffee."**
+># **"Found an open S3 bucket. Jackpot."**
 <!-- END_QUOTE -->
