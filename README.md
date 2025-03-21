@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Found an open S3 bucket. Jackpot."**
+># **"Burp Suite: The only thing keeping me sane."**
 <!-- END_QUOTE -->
