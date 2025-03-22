@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Burp Suite: The only thing keeping me sane."**
+># **"If you see a comment in the code, it’s probably useful."**
 <!-- END_QUOTE -->
