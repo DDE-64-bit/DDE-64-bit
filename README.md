@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"If you see a comment in the code, it’s probably useful."**
+># **"Hardcoded credentials… again."**
 <!-- END_QUOTE -->
