@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"CTF challenges taught me more than school ever did."**
+># **"Why patch vulnerabilities when you can leave them for me?"**
 <!-- END_QUOTE -->
