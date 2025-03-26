@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Why patch vulnerabilities when you can leave them for me?"**
+># **"Subdomain enumeration: because one domain is never enough."**
 <!-- END_QUOTE -->
