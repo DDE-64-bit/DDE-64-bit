@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"If your app doesn’t validate input, I will."**
+># **"Exploit-DB is my second home."**
 <!-- END_QUOTE -->
