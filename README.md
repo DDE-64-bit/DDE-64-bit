@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Exploit-DB is my second home."**
+># **"Everything is vulnerable until proven otherwise."**
 <!-- END_QUOTE -->
