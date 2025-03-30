@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Everything is vulnerable until proven otherwise."**
+># **"Reverse shells make me happy."**
 <!-- END_QUOTE -->
