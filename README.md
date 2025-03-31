@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Reverse shells make me happy."**
+># **"SOC alerts? That was probably me."**
 <!-- END_QUOTE -->
