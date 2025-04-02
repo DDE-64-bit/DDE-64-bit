@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"If it has an IP, I can probably break it."**
+># **"Running nmap… this might take a while."**
 <!-- END_QUOTE -->
