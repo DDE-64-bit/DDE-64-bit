@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Running nmap… this might take a while."**
+># **"Pentesting: The art of controlled chaos."**
 <!-- END_QUOTE -->
