@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"My job is to break things, then write a report about it."**
+># **"If Metasploit doesn’t work, try harder."**
 <!-- END_QUOTE -->
