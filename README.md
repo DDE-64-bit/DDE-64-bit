@@ -11,11 +11,11 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 ### 🚀 Huidige Projecten:
 - **Bezig met eigen AI agent SDK**: Voor de leerervaring ben ik bezig met een eigen AI agent SDK gebaseerd op llama3.2 van Meta.
-
+<!--
 ### 🌱 Leertraject:
 - Momenteel studeer ik voor **Junior Cybersecurity Analyst** via Cisco's Skills for All-path.
 - Ik breid mijn kennis uit over de basisprincipes van cybersecurity en werk toe naar certificering.
-
+-->
 
 
 <!-- START_QUOTE -->
