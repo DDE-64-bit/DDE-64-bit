@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Real pentesters don’t need GUI."**
+># **"Privilege escalation: because user access is never enough."**
 <!-- END_QUOTE -->
