@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity • AI Agent • Mods</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2bcd0602d7dc0d9449/resources/img/dev.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
 </p>
 
 ---
