@@ -60,7 +60,7 @@ Altijd op zoek naar manieren om techniek te combineren met creativiteit en auton
 ---
 
 <!-- START_QUOTE -->
-<h1>"Found a hidden parameter, let’s see what it does."</h1>
+><h1>"Found a hidden parameter, let’s see what it does."</h1>
 <!-- END_QUOTE -->
 
 ---
