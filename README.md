@@ -11,7 +11,6 @@
 
 Ik ben een student met een affiniteit voor **AI** en **cybersecurity**.  
 Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.  
-Altijd op zoek naar manieren om techniek te combineren met creativiteit en autonomie.
 
 ---
 
