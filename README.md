@@ -19,5 +19,5 @@ Ik ben een gepassioneerde student met een sterke interesse in netwerken, beveili
 
 
 <!-- START_QUOTE -->
-># **"Privilege escalation: because user access is never enough."**
+># **"Found a hidden parameter, let’s see what it does."**
 <!-- END_QUOTE -->
