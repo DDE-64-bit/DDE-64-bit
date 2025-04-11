@@ -21,8 +21,8 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
   → Gericht op usability, modulariteit en autonomie.
 
 - 🎮 **Game Mods op NexusMods**  
-    - [🔗 No leviathans, subnautica](https://www.nexusmods.com/subnautica/mods/1722)
-    - [🔗 Custom gamemode, subnautica](https://www.nexusmods.com/subnautica/mods/1775)
+    - 🔗 [No leviathans, subnautica](https://www.nexusmods.com/subnautica/mods/1722)
+    - 🔗 [Custom gamemode, subnautica](https://www.nexusmods.com/subnautica/mods/1775)
 
 - 🛠️ **Schoolprojecten & mini-tools**  
   Diverse schoolprojecten en cybersecurity tools.
