@@ -16,7 +16,7 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 
 ### 🚀 Project Highlights
 
-- 🧠 **AI Agent SDK (in progress)**  
+- 🧠 **AI Agent SDK**  
   Ondersteuning voor zowel **lokale LLaMA-modellen** als **OpenAI API’s**.  
   → Gericht op usability, modulariteit en autonomie.
 
