@@ -59,7 +59,7 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 ---
 
 <!-- START_QUOTE -->
-><h1>"Exploit-DB is my second home."</h1>
+><h1>"Everything is vulnerable until proven otherwise."</h1>
 <!-- END_QUOTE -->
 
 ---
