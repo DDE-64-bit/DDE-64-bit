@@ -54,7 +54,7 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DDE-64-bit&layout=compact&langs_count=10&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DDE-64-bit&layout=compact&langs_count=10&theme=radical&exclude_repo=Informatica-GameDesign)
 
 ---
 
