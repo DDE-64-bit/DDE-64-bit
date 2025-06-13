@@ -59,7 +59,7 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 ---
 
 <!-- START_QUOTE -->
-><h1>"Who needs backdoors when misconfigurations exist?"</h1>
+><h1>"Security through obscurity is not security."</h1>
 <!-- END_QUOTE -->
 
 ---
