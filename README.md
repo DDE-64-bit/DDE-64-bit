@@ -45,7 +45,6 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 ---
 
 ### 📚 Wat ik aan het leren ben
-
 - AI agents bouwen met autonomie & memory
 - Red teaming en exploitontwikkeling
 - Threat detection & response pipelines
