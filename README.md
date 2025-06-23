@@ -58,7 +58,7 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 ---
 
 <!-- START_QUOTE -->
-><h1>"If you see a comment in the code, it’s probably useful."</h1>
+><h1>"Hardcoded credentials… again."</h1>
 <!-- END_QUOTE -->
 
 ---
