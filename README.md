@@ -7,6 +7,7 @@
 
 ---
 
+
 ### 👨‍💻 Over Mij
 
 Ik ben een student met een affiniteit voor **AI** en **cybersecurity**.  
