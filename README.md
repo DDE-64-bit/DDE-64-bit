@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hallo, ik ben Olivier</h1>
-<h3 align="center">Cybersecurity • AI Agent • Mods</h3>
+<h3 align="center">Cybersecurity • AI Agents • Mods</h3>
 
 
 <p align="center">
