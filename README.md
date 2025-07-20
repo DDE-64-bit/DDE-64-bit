@@ -61,7 +61,7 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 ---
 
 <!-- START_QUOTE -->
-><h1>"Intercepting traffic like it’s my morning coffee."</h1>
+><h1>"Found an open S3 bucket. Jackpot."</h1>
 <!-- END_QUOTE -->
 
 ---
