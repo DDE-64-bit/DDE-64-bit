@@ -60,7 +60,7 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 ---
 
 <!-- START_QUOTE -->
-><h1>"Third rule of pentesting: Read the logs, they never lie."</h1>
+><h1>"Dropped a shell, now the fun begins."</h1>
 <!-- END_QUOTE -->
 
 ---
