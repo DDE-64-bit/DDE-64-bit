@@ -60,7 +60,7 @@ Wat ik doe? **Bouwen, breken, en leren** – van AI agent SDKs tot game mods.
 ---
 
 <!-- START_QUOTE -->
-><h1>"Everything is vulnerable until proven otherwise."</h1>
+><h1>"Reverse shells make me happy."</h1>
 <!-- END_QUOTE -->
 
 ---
