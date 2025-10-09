@@ -1,3 +1,3 @@
 <!-- START_QUOTE -->
-><h1>"Real pentesters don’t need GUI."</h1>
+><h1>"Privilege escalation: because user access is never enough."</h1>
 <!-- END_QUOTE -->
