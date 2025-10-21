@@ -1,4 +1,4 @@
 
 <!-- START_QUOTE -->
-><h1>"Found an open S3 bucket. Jackpot."</h1>
+><h1>"Burp Suite: The only thing keeping me sane."</h1>
 <!-- END_QUOTE -->
