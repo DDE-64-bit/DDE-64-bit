@@ -1,4 +1,4 @@
 
 <!-- START_QUOTE -->
-><h1>"Everything is vulnerable until proven otherwise."</h1>
+><h1>"Reverse shells make me happy."</h1>
 <!-- END_QUOTE -->
