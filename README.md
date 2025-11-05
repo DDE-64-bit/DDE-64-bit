@@ -1,4 +1,4 @@
 
 <!-- START_QUOTE -->
-><h1>"My job is to break things, then write a report about it."</h1>
+><h1>"If Metasploit doesn’t work, try harder."</h1>
 <!-- END_QUOTE -->
