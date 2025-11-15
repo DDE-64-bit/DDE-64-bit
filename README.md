@@ -1,4 +1,4 @@
 
 <!-- START_QUOTE -->
-><h1>"My favorite tool? The one that gets me in."</h1>
+><h1>"First rule of pentesting: Always check for default creds."</h1>
 <!-- END_QUOTE -->
