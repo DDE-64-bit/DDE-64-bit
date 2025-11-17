@@ -1,4 +1,4 @@
 
 <!-- START_QUOTE -->
-><h1>"Second rule of pentesting: Never trust user input."</h1>
+><h1>"Third rule of pentesting: Read the logs, they never lie."</h1>
 <!-- END_QUOTE -->
