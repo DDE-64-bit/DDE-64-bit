@@ -1,5 +1,5 @@
 
 
 <!-- START_QUOTE -->
-><h1>"Why patch vulnerabilities when you can leave them for me?"</h1>
+><h1>"Subdomain enumeration: because one domain is never enough."</h1>
 <!-- END_QUOTE -->
