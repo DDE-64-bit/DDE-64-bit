@@ -1,5 +1,5 @@
 
 
 <!-- START_QUOTE -->
-><h1>"Brute force is my plan B."</h1>
+><h1>"Everything is a CTF if you try hard enough."</h1>
 <!-- END_QUOTE -->
