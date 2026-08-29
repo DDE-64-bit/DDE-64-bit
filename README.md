@@ -1,5 +1,5 @@
 
 
 <!-- START_QUOTE -->
-><h1>"Exploit-DB is my second home."</h1>
+><h1>"Everything is vulnerable until proven otherwise."</h1>
 <!-- END_QUOTE -->
