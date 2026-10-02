@@ -1,5 +1,5 @@
 
 
 <!-- START_QUOTE -->
-><h1>"If it has an IP, I can probably break it."</h1>
+><h1>"Running nmap… this might take a while."</h1>
 <!-- END_QUOTE -->
