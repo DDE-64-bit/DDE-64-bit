@@ -1,5 +1,5 @@
 
 
 <!-- START_QUOTE -->
-><h1>"If Metasploit doesn’t work, try harder."</h1>
+><h1>"Brute force is my plan B."</h1>
 <!-- END_QUOTE -->
