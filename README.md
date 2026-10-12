@@ -1,5 +1,5 @@
 
 
 <!-- START_QUOTE -->
-><h1>"OSINT: Hacking with Google."</h1>
+><h1>"Who needs backdoors when misconfigurations exist?"</h1>
 <!-- END_QUOTE -->
